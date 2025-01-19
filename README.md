@@ -1,6 +1,6 @@
 ### 🍇Fruit E commerce website ✨
 E commerce website name : • Juicy •
-
+#### live demo here : https://juicy369.netlify.app/
 🧑‍🎓 Congratulations on completing my e-commerce website in just one week and finishing my internship project!
 
  💥 This achievement showcases my exceptional time management skills, dedication, and perseverance. 
